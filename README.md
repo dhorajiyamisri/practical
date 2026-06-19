@@ -228,7 +228,7 @@ The generated dataset is fully cleaned and ready for:
 
 Replace this GIF with your own project recording:
 <img src="assets/project_demo.gif" width="900">
-
+https://drive.google.com/file/d/1exbI0_WyXlLVFw65YXjkAYTQtkZbtZZq/view?usp=drive_link
 
 ---
 
