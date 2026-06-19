@@ -228,7 +228,7 @@ The generated dataset is fully cleaned and ready for:
 
 Replace this GIF with your own project recording:
 <img src="assets/project_demo.gif" width="900">
-<img width="1018" height="918" alt="Recording 2026-06-19 152128" src="https://github.com/user-attachments/assets/c79f4410-4411-4096-8b91-0aa0ff969557" />
+<img width="1018" height="700" alt="Recording 2026-06-19 152128" src="https://github.com/user-attachments/assets/c79f4410-4411-4096-8b91-0aa0ff969557" />
 
 
 
